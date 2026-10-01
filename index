@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>قائمة الأسعار</title>
 <!-- غيّر الرابط في السطر ده لو عملت نشر جديد وتغيّر الرابط -->
-<meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbwlgejP7q5zNW9avL0Xy_p85dClie9lyZDoP-mHOpX_nri0MOZYCi2q-xKPw27SIqUAfA/exec">
+<meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbwlgejP7q5zNW9avL0Xy_p85dCIie9IyZDoP-mHOpX_nri0MOZYCi2q-xKPw27SlqUAfA/exec?admin">
 <style>
   body{font-family:'Tajawal','Segoe UI',sans-serif;background:#0B5FA5;color:#fff;
     min-height:100vh;margin:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:20px;}
@@ -17,7 +17,7 @@
 </style>
 <script>
   // إعادة توجيه فورية عن طريق JavaScript أيضًا (احتياط لو الـ meta refresh اتجاهل)
-  location.replace("https://script.google.com/macros/s/AKfycbwlgejP7q5zNW9avL0Xy_p85dClie9lyZDoP-mHOpX_nri0MOZYCi2q-xKPw27SIqUAfA/exec");
+  location.replace("https://script.google.com/macros/s/AKfycbwlgejP7q5zNW9avL0Xy_p85dClie9lyZDoP-mHOpX_nri0MOZYCi2q-xKPw27SIqUAfA/exec?admin");
 </script>
 </head>
 <body>
